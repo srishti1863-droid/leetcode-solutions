@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -42,6 +43,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
