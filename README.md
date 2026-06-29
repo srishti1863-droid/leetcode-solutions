@@ -60,4 +60,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 <!---LeetCode Topics End-->
