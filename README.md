@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -48,6 +49,7 @@
 | [0039-combination-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
