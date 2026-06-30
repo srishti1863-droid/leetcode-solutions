@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Stack
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Math
 | Problem Name | Difficulty |
