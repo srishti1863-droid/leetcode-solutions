@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -100,6 +101,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -124,5 +126,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
