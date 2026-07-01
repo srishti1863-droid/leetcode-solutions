@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Math
@@ -92,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
