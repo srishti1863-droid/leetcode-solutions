@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
@@ -112,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -124,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
