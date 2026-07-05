@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
@@ -49,6 +50,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
