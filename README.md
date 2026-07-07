@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -73,6 +74,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -94,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -225,4 +228,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
