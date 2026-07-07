@@ -62,6 +62,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -83,6 +84,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -104,6 +106,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -160,6 +163,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +182,7 @@
 | [0088-merge-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -240,4 +245,9 @@
 | [0098-validate-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
