@@ -10,28 +10,25 @@
  * };
  */
 class BSTIterator {
-    private: stack<TreeNode*> mystack;
-public:
-        
-        BSTIterator(TreeNode* root){
-            pushAll(root);
-        }
-        bool hasNext(){
-            return !mystack.empty();
-        }
-        int next(){
-            TreeNode* tempNode=mystack.top();
-            mystack.pop();
-            pushAll(tempNode->right);
-            return tempNode->val;
-        }
-        private:
-        void pushAll(TreeNode* node){
-            for(;node!=NULL;mystack.push(node),node=node->left);
-        }
-    
-    
-   
+    private:
+    stack<TreeNode*> mystack;
+    public:
+    BSTIterator(TreeNode* root){
+        pushall(root);
+    }
+    bool hasNext(){
+        return !mystack.empty();
+    }
+    int next(){
+        TreeNode* tmpNode=mystack.top();
+        mystack.pop();
+        pushall(tmpNode->right);
+        return tmpNode->val;
+    }
+    private:
+    void pushall(TreeNode* root){
+        for(;root!=NULL;mystack.push(root),root=root->left);
+    }
 };
 
 /**
