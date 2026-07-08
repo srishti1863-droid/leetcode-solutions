@@ -15,23 +15,23 @@ public:
         if(root==NULL) return NULL;
         if(root->val==key) return helper(root);
         TreeNode* dummy=root;
-        while(root!=NULL){
-            if(root->val>key){
-                if(root->left!=NULL && root->left->val==key){
-                    root->left=helper(root->left);
-                    break;
-                }
-                else{
-                    root=root->left;
-                }
-            }
-            else{
+        while(root){
+            if(root->val<key){
                 if(root->right!=NULL && root->right->val==key){
                     root->right=helper(root->right);
                     break;
                 }
                 else{
                     root=root->right;
+                }
+            }
+            else{
+                if(root->left!=NULL && root->left->val==key){
+                    root->left=helper(root->left);
+                    break;
+                }
+                else{
+                    root=root->left;
                 }
             }
         }
@@ -46,9 +46,7 @@ public:
         return root->left;
     }
     TreeNode* findlastright(TreeNode* root){
-        if(root->right==NULL){
-            return root;
-        }
+        if(root->right==NULL) return root;
         return findlastright(root->right);
     }
 };
