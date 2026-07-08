@@ -15,7 +15,7 @@ public:
         if(root==NULL) return new TreeNode(val);
         TreeNode* cur=root;
         while(cur){
-            if(cur->val<=val){
+            if(cur->val<val){
                 if(cur->right!=NULL) cur=cur->right;
                 else{
                     cur->right=new TreeNode(val);
