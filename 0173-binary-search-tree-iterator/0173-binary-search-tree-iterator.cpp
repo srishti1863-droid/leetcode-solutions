@@ -9,9 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class BSTIterator {
+class BSTIterator{
     private:
-    stack<TreeNode*> mystack;
+    stack<TreeNode*>mystack;
     public:
     BSTIterator(TreeNode* root){
         pushall(root);
@@ -25,12 +25,10 @@ class BSTIterator {
         pushall(tmpNode->right);
         return tmpNode->val;
     }
-    private:
     void pushall(TreeNode* root){
         for(;root!=NULL;mystack.push(root),root=root->left);
     }
 };
-
 /**
  * Your BSTIterator object will be instantiated and called as such:
  * BSTIterator* obj = new BSTIterator(root);
