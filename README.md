@@ -52,6 +52,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Tree
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -107,6 +109,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -251,6 +254,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
