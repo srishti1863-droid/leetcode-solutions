@@ -79,6 +79,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
@@ -137,6 +138,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Design
@@ -195,6 +197,7 @@
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +235,7 @@
 | [0088-merge-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +290,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -295,4 +300,5 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
