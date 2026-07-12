@@ -174,6 +174,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -199,6 +200,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -316,4 +318,8 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
