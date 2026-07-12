@@ -180,6 +180,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,4 +337,5 @@
 | [0930-binary-subarrays-with-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
