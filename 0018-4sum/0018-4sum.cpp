@@ -15,16 +15,24 @@ public:
                     sum+=nums[j];
                     sum+=nums[k];
                     sum+=nums[l];
-                    if(sum==target){
-                        vector<int>temp={nums[i],nums[j],nums[k],nums[l]};
-                        ans.push_back(temp);
+                    if(sum<target){
+                        k++;
+                    }
+                    else if(sum>target){
+                        l--;
+                    }
+                    else{
+                        vector<int>tmp={nums[i],nums[j],nums[k],nums[l]};
+                        ans.push_back(tmp);
                         k++;
                         l--;
-                        while(k<l && nums[k]==nums[k-1]) k++;
-                        while(k<l && nums[l]==nums[l+1]) l--;
+                        while(k<l && nums[k]==nums[k-1]){
+                            k++;
+                        }
+                        while(k<l && nums[l]==nums[l+1]){
+                            l--;
+                        }
                     }
-                    else if(sum<target) k++;
-                    else l--;
                 }
             }
         }
