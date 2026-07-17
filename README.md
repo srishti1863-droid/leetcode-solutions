@@ -186,6 +186,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -220,6 +221,7 @@
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -266,6 +268,7 @@
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
