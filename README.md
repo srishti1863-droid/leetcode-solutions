@@ -60,6 +60,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Stack
@@ -215,6 +216,7 @@
 | [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0189-rotate-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -384,5 +386,6 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
