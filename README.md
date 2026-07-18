@@ -38,6 +38,7 @@
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -249,6 +250,7 @@
 | [0088-merge-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
@@ -270,6 +272,7 @@
 | [0217-contains-duplicate](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
