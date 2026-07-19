@@ -42,6 +42,7 @@
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -212,6 +213,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Math
@@ -287,6 +289,7 @@
 | [0217-contains-duplicate](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Counting
@@ -328,6 +331,7 @@
 | [0055-jump-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
