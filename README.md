@@ -207,6 +207,7 @@
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,4 +407,8 @@
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
