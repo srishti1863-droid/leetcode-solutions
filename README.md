@@ -81,6 +81,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -218,6 +219,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -245,6 +247,7 @@
 | [0048-rotate-image](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0189-rotate-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -252,6 +255,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
