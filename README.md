@@ -55,6 +55,7 @@
 | [0860-lemonade-change](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -85,6 +86,7 @@
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -334,6 +336,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
