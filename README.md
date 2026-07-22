@@ -94,6 +94,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -234,6 +235,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -346,6 +348,7 @@
 | [0735-asteroid-collision](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
