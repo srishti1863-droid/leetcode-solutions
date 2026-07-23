@@ -74,6 +74,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +265,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
