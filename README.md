@@ -79,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -228,6 +229,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
