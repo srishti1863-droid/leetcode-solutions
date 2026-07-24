@@ -77,6 +77,7 @@
 | [3479-fruits-into-baskets-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +278,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +476,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
