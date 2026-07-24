@@ -1,16 +1,16 @@
 class Solution {
 public:
-int t[101];
-int solve(vector<int>nums,int i,int n){
-    if(i>=n) return 0;
-    if(t[i]!=-1) return t[i];
-    int steal=nums[i]+solve(nums,i+2,n);
-    int skip=solve(nums,i+1,n);
-    return t[i]=max(steal,skip);
+int f(int ind,vector<int>& nums,vector<int>& dp){
+    if(ind==0) return nums[ind];
+    if(ind<0) return 0;
+    if(dp[ind]!=-1) return dp[ind];
+    int pick=nums[ind]+f(ind-2,nums,dp);
+    int notpick=0+f(ind-1,nums,dp);
+    return dp[ind]=max(pick,notpick);
 }
     int rob(vector<int>& nums) {
         int n=nums.size();
-        memset(t,-1,sizeof(t));
-        return solve(nums,0,n);
+        vector<int> dp(n,-1);
+        return f(n-1,nums,dp);
     }
 };
