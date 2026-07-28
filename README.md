@@ -253,6 +253,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +369,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,4 +510,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
