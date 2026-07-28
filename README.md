@@ -55,6 +55,7 @@
 | [0485-max-consecutive-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -280,6 +281,7 @@
 | [0435-non-overlapping-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Math
