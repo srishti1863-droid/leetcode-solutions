@@ -242,6 +242,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -262,6 +263,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -342,6 +344,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
