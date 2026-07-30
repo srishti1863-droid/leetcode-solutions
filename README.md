@@ -255,6 +255,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -297,6 +298,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -435,6 +437,7 @@
 | [0860-lemonade-change](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
