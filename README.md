@@ -53,6 +53,7 @@
 | [0435-non-overlapping-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -282,6 +283,7 @@
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -296,6 +298,7 @@
 | [0070-climbing-stairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -309,6 +312,7 @@
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1106-parsing-a-boolean-expression](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 ## Hash Table
@@ -528,4 +532,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
