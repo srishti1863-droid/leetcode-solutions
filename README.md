@@ -76,6 +76,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -293,6 +294,7 @@
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +309,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -542,4 +545,13 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
