@@ -383,6 +383,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -444,6 +445,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -549,6 +551,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -571,6 +574,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -589,4 +593,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0382-linked-list-random-node/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
