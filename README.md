@@ -125,6 +125,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -153,6 +154,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -196,6 +198,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -381,6 +384,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
@@ -567,6 +571,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0382-linked-list-random-node/) | Medium |
