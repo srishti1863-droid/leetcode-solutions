@@ -325,6 +325,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -577,6 +578,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
