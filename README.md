@@ -348,6 +348,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -580,6 +581,7 @@
 | [0328-odd-even-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0382-linked-list-random-node/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
