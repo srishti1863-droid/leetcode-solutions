@@ -113,6 +113,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -381,6 +382,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -587,6 +589,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
