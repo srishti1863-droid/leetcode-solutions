@@ -102,6 +102,7 @@
 | [0155-min-stack](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0445-add-two-numbers-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -311,6 +312,7 @@
 | [0189-rotate-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0382-linked-list-random-node](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0382-linked-list-random-node/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -585,6 +587,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0382-linked-list-random-node/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
