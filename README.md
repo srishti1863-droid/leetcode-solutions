@@ -375,6 +375,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -583,6 +584,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0086-partition-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
