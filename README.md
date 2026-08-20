@@ -328,6 +328,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0060-permutation-sequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -583,6 +584,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
