@@ -16,6 +16,7 @@
 | [0037-sudoku-solver](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -185,6 +187,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -274,6 +277,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -377,6 +381,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
