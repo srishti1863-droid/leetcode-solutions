@@ -46,6 +46,7 @@
 | [0198-house-robber](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -354,6 +355,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -539,6 +541,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
