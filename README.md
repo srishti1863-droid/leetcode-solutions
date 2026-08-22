@@ -68,6 +68,7 @@
 | [0724-find-pivot-index](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0860-lemonade-change](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -376,6 +377,7 @@
 | [0063-unique-paths-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
