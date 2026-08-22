@@ -64,6 +64,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0724-find-pivot-index](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
@@ -489,6 +490,7 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
