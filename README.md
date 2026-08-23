@@ -639,6 +639,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
