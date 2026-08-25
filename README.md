@@ -83,6 +83,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -314,6 +315,7 @@
 | [0518-coin-change-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Math
@@ -388,6 +390,7 @@
 | [0085-maximal-rectangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
