@@ -31,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0085-maximal-rectangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -103,6 +104,7 @@
 | [0020-valid-parentheses](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0085-maximal-rectangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -193,6 +195,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0739-daily-temperatures](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -291,6 +294,7 @@
 | [0063-unique-paths-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -381,6 +385,7 @@
 | [0063-unique-paths-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0085-maximal-rectangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Two Pointers
