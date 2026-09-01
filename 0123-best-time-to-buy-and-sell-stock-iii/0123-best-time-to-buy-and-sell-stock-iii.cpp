@@ -1,8 +1,15 @@
 class Solution {
 public:
 int f(int ind,int buy,int cap,vector<int>& prices,int n,vector<vector<vector<int>>>& dp){
-    if(cap==0 || ind==n) return 0;
-    if(dp[ind][buy][cap]!=-1) return dp[ind][buy][cap];
+    if(cap==0){
+        return 0;
+    }
+    if(ind==n){
+        return 0;
+    }
+    if(dp[ind][buy][cap]!=-1){
+        return dp[ind][buy][cap];
+    }
     if(buy==1){
         return dp[ind][buy][cap]=max(-prices[ind]+f(ind+1,0,cap,prices,n,dp),0+f(ind+1,1,cap,prices,n,dp));
     }
