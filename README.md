@@ -79,6 +79,7 @@
 | [0946-validate-stack-sequences](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -394,6 +395,7 @@
 | [0085-maximal-rectangle](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0733-flood-fill](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0994-rotting-oranges](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Two Pointers
@@ -563,6 +565,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
