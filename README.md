@@ -325,6 +325,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1406-stone-game-iii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -691,12 +692,19 @@
 | [0547-number-of-provinces](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0997-find-the-town-judge](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
