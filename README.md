@@ -320,6 +320,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -552,6 +553,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -569,6 +571,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -612,6 +615,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Counting Sort
@@ -685,9 +689,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0997-find-the-town-judge](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/srishti1863-droid/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
